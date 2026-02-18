@@ -1,4 +1,4 @@
-# SignWave – Sign Language Interpreter with Live Avatar
+# ResQSign : An Intelligent Sign Language System for Interaction and Emergency Assistance
 
 SignWave is a React-based toolkit that translates spoken or typed text into Indian Sign Language (ISL) using animated 3D avatars. It also provides a sign-to-text flow powered by MediaPipe Hands and TensorFlow.js. The app is packaged as a Create React App project inside the `client` folder.
 
