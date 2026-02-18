@@ -1,0 +1,44 @@
+body {
+  background-color: #FFF7F3;
+  color: #1F2937;
+  font-family: 'Inter', sans-serif;
+}
+
+.hero-section {
+  min-height: 90vh;
+  display: flex;
+  align-items: center;
+  background-color: #FFF7F3;
+}
+
+.section-heading {
+  font-size: 2.2rem;
+  font-weight: 700;
+}
+
+.divider {
+  width: 60px;
+  height: 4px;
+  background-color: #FF7A59;
+  border-radius: 10px;
+}
+
+.card {
+  border-radius: 14px;
+  border: 1px solid #F3E8E2;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.05);
+}
+
+.btn-primary {
+  background-color: #FF7A59;
+  border: none;
+}
+
+.btn-primary:hover {
+  background-color: #E65A3F;
+}
+
+.input-style {
+  background-color: #fff;
+  border: 1px solid #E5E7EB;
+}
